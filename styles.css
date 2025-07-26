@@ -21,7 +21,7 @@ body {
 
 .sunflower {
   cursor: default;
-  font-size: 10rem;
+  font-size: 10rem !important;
   line-height: 1;
 }
 
