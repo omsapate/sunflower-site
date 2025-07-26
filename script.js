@@ -9,7 +9,7 @@ anime({
   loop: true
 });
 
-let hour = new Date().getHours();
+const hour = new Date().getHours();
 if (hour < 6 || hour >= 18) {
   document.body.style.background = "linear-gradient(to top, #0b0c2a, #1e1e40)";
    document.getElementById('footer').style.color = 'white';
