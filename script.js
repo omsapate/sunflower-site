@@ -1,13 +1,13 @@
-anime({
-  targets: '#sunflower',
-  scale: [
-    { value: 1, duration: 800 },
-    { value: 1.05, duration: 800 }
-  ],
-  easing: 'easeInOutSine',
-  direction: 'alternate',
-  loop: true
-});
+// anime({
+//   targets: '#sunflower',
+//   scale: [
+//     { value: 1, duration: 800 },
+//     { value: 1.05, duration: 800 }
+//   ],
+//   easing: 'easeInOutSine',
+//   direction: 'alternate',
+//   loop: true
+// });
 
 new Date().getHours();
 if (hour < 6 || hour >= 18) {
