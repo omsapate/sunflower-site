@@ -20,9 +20,9 @@ body {
 }
 
 .sunflower {
+ font-size: 14rem; /* Increased from 8rem to 14rem */
+  display: inline-block;
   cursor: default;
-  font-size: 10rem !important;
-  line-height: 1;
 }
 
 .fa{
